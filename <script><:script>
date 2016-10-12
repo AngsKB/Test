@@ -2,3 +2,6 @@
 font-color: blue
 
 <p> 
+
+p {background: #FFFFFFF;
+}
